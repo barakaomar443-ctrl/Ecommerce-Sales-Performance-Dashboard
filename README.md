@@ -4,7 +4,7 @@ This project presents an interactive sales dashboard for an e-commerce business.
 ## Data used
 - <a href="https://github.com/barakaomar443-ctrl/Ecommerce-Sales-Performance-Dashboard/blob/main/Sales_Dataset%202.xlsx">Dataset</a>
 
-##Questions (KPIs)
+## Questions (KPIs)
 -What is the total revenue generated during the analyzed period?
 -Which countries contribute the most to total sales, and how can we focus marketing efforts accordingly?
 -How do sales trend across quarters? Are there seasonal peaks or declines?
