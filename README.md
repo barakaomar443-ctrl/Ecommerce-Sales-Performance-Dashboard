@@ -1,2 +1,2 @@
 # Ecommerce-Sales-Performance-Dashboard
-Interactive e-commerce sales dashboard highlighting top countries, quarterly trends, product categories, and customer language insights to optimize marketing strategies.
+This project presents an interactive sales dashboard for an e-commerce business. The dashboard enables stakeholders to monitor key performance indicators, identify top-performing countries and product categories, analyze quarterly sales trends, and understand customer demographics based on language. The insights derived support data-driven decisions for marketing optimization and strategic growth
