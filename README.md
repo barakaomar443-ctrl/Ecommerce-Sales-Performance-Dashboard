@@ -6,18 +6,31 @@ This project presents an interactive sales dashboard for an e-commerce business.
 
 ## Questions (KPIs)
 -What is the total revenue generated during the analyzed period?
+
 -Which countries contribute the most to total sales, and how can we focus marketing efforts accordingly?
+
 -How do sales trend across quarters? Are there seasonal peaks or declines?
+
 -Which product categories drive the highest revenue?
+
 -What languages do our highest‑spending customers speak, and how can we tailor marketing to these segments?
+
 -How concentrated is our revenue in the top markets? Are we overly dependent on a few countries?
+
 -Is revenue growing or declining from one quarter to the next?
+
 -Which countries or regions are underperforming and may need targeted promotions?
+
 -What is the revenue contribution of each customer language segment?
+
 -Based on quarterly trends, when should we ramp up marketing or plan inventory?
+
 -Which product categories are underperforming and might require review?
+
 -How can we optimize advertising spend by focusing on top‑performing countries and languages?
+
 -What is the average revenue per transaction? (if order count is available)
+
 -Which markets show the highest potential for expansion based on current sales?
 
 -Dashboard interaction <a href="https://github.com/barakaomar443-ctrl/Ecommerce-Sales-Performance-Dashboard/blob/main/Overview.PNG">Dataset</a>
