@@ -37,11 +37,17 @@ This project presents an interactive sales dashboard for an e-commerce business.
 
 ## Process
 -Data Collection
+
 -Data Cleaning & Preparation
+
 -Exploratory Data Analysis (EDA)
+
 -KPI Definition
+
 -Dashboard Design & Development
+
 -Insights & Recommendations
+
 -Documentation & Sharing
 
 ## Dashboard
