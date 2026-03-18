@@ -52,6 +52,9 @@ This project presents an interactive sales dashboard for an e-commerce business.
 
 ## Dashboard
 
+<img width="956" height="473" alt="Overview" src="https://github.com/user-attachments/assets/22029aee-13cb-441c-9a92-818a87313896" />
+
+
 
 
 
