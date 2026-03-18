@@ -55,6 +55,28 @@ This project presents an interactive sales dashboard for an e-commerce business.
 <img width="956" height="473" alt="Overview" src="https://github.com/user-attachments/assets/22029aee-13cb-441c-9a92-818a87313896" />
 
 
+## Project insights
+
+-Market Concentration: Jordan is the dominant market, contributing ~78% of total revenue among the top 10 countries ($2.67M out of $3.28M). Egypt, France, and Germany follow but with significantly lower shares.
+
+-Language Dominance: Arabic‑speaking customers account for 86% of total sales ($2.92M out of $3.38M), indicating that the primary audience is based in Arabic‑speaking regions.
+
+-Seasonal Trend: Sales peak in Q1 ($2.44M) and decline steadily throughout the year, suggesting a strong start and potential drop‑off that could be addressed with targeted promotions in later quarters.
+
+-Category Performance: The dashboard tracks multiple product categories (luggage, electronics, fashion, etc.), allowing stakeholders to identify best‑sellers and underperformers for inventory and marketing decisions.
+
+## Final conclusion
+
+-The e‑commerce business exhibits high dependency on a single country (Jordan) and language segment (Arabic). While this concentration drives current revenue, it also poses a risk. To sustain growth, the company should:
+
+-Strengthen its presence in existing top markets while exploring expansion into emerging ones (e.g., Egypt, France).
+
+-Leverage the Q1 sales momentum with campaigns designed to maintain engagement throughout the year.
+
+-Use customer language insights to tailor marketing content and improve customer experience for non‑Arabic speakers.
+
+
+
 
 
 
